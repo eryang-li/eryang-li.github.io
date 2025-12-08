@@ -13,19 +13,41 @@ Quartus II下载链接：[http://download.altera.com/akdlm/software/acdsinst/15.
 
 1. 打开 `Quartus_II_15.0` 注册机，给 `C:\altera\15.0\quartus\bin64\gcl_afcq.dll`
 
-    ![alt text](image.png)
+    ![alt text](./01_image/image.png)
 
 2. 打开 `QuartusII 15.0`，选择 `If you have a valid license···`
 
-    ![alt text](image-1.png)
+    ![alt text](./01_image/image-1.png)
 
 3. 复制软件的ID号，到 `license.dat`，然后进行替换
 
-    ![alt text](image-2.png)
+    ![alt text](./01_image/image-2.png)
 
 4. 许可文件载入
 
-    ![alt text](image-3.png)
+    ![alt text](./01_image/image-3.png)
+
+
+## 3 安装设备
+
+下载FPGA对应的 `***.qdz` 文件，放入到目录后。
+
+![alt text](./01_image/image-6.png)
+
+![alt text](./01_image/image-7.png)
+
+![alt text](./01_image/image-4.png)
+
+![alt text](./01_image/image-5.png)
+
+## 4 ModelSim-Altera仿真
+
+下载链接：[https://pan.baidu.com/s/1tUNU-jCWLPtQGSSqZLMN_g](https://pan.baidu.com/s/1tUNU-jCWLPtQGSSqZLMN_g)
+提取码：ssvn
+
+<font color="red">注意安装不需要许可证的</font>
+
+
 
 ## 参考
 

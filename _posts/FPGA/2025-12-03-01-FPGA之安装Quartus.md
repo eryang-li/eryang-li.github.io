@@ -1,61 +1,38 @@
 ---
 layout: post
-title: 一、FPGA——Quartus II
+title: 一、FPGA——Quartus Prime
 categories: FPGA
 tags: [FPGA]
 ---
 
-## 1 Quartus II
+## 1 Quartus Prime安装
 
-Quartus II下载链接：[http://download.altera.com/akdlm/software/acdsinst/15.0/145/ib_installers/QuartusSetup-15.0.0.145-windows.exe ](http://download.altera.com/akdlm/software/acdsinst/15.0/145/ib_installers/QuartusSetup-15.0.0.145-windows.exe )
+Quartus Prime 18.1 /64位下载地址：
+
+https://pan.baidu.com/s/1E6veXppB3E4Z6MGpK2l4Ig
+
+提取码：1818
+
+
+![alt text](./01_image/image.png)
+
+![alt text](./01_image/image-1.png)
+
+![alt text](./01_image/image-2.png)
 
 ## 2 破解过程
 
-1. 打开 `Quartus_II_15.0` 注册机，给 `C:\altera\15.0\quartus\bin64\gcl_afcq.dll`
-
-    ![alt text](./01_image/image.png)
-
-2. 打开 `QuartusII 15.0`，选择 `If you have a valid license···`
-
-    ![alt text](./01_image/image-1.png)
-
-3. 复制软件的ID号，到 `license.dat`，然后进行替换
-
-    ![alt text](./01_image/image-2.png)
-
-4. 许可文件载入
-
-    ![alt text](./01_image/image-3.png)
-
-
-## 3 安装设备
-
-下载FPGA对应的 `***.qdz` 文件，放入到目录后。
-
-![alt text](./01_image/image-6.png)
-
-![alt text](./01_image/image-7.png)
+![alt text](./01_image/image-3.png)
 
 ![alt text](./01_image/image-4.png)
 
 ![alt text](./01_image/image-5.png)
 
-## 4 ModelSim-Altera仿真
+![alt text](./01_image/image-6.png)
 
-下载链接：[https://pan.baidu.com/s/1tUNU-jCWLPtQGSSqZLMN_g](https://pan.baidu.com/s/1tUNU-jCWLPtQGSSqZLMN_g)
-提取码：ssvn
+![alt text](./01_image/image-7.png)
 
-<font color="red">注意安装不需要许可证的</font>
+![alt text](./01_image/image-8.png)
 
+![alt text](./01_image/image-9.png)
 
-
-## 参考
-
-[参考1： Quartus II 15.0破解版下载安装教程](https://www.fujieace.com/software/quartus-ii-15-0.html)
-
-[参考2： Quartus II 15软件安装](https://blog.csdn.net/yxswhy/article/details/79610908)
-
-[参考3： Quartus II 15.0 Windows64&Linux版本下载链接，以及Crack共享](https://bbs.eeworld.com.cn/thread-461297-1-1.html)
-
-
-https://www.bilibili.com/video/BV1Ga4y1f7hy?spm_id_from=333.788.videopod.episodes&vd_source=e6b01e2e688ed9241677df121e4b897a&p=5

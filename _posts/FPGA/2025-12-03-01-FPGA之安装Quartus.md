@@ -36,3 +36,6 @@ https://pan.baidu.com/s/1E6veXppB3E4Z6MGpK2l4Ig
 
 ![alt text](./01_image/image-9.png)
 
+## 3 USB-Blaster驱动安装
+
+![alt text](./01_image/image-10.png)
